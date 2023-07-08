@@ -1,0 +1,15 @@
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\bin\Debug\net6.0\homme 4.exe
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\bin\Debug\net6.0\homme 4.deps.json
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\bin\Debug\net6.0\homme 4.runtimeconfig.json
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\bin\Debug\net6.0\homme 4.dll
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\bin\Debug\net6.0\homme 4.pdb
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\obj\Debug\net6.0\homme 4.csproj.AssemblyReference.cache
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\obj\Debug\net6.0\homme 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\obj\Debug\net6.0\homme 4.AssemblyInfoInputs.cache
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\obj\Debug\net6.0\homme 4.AssemblyInfo.cs
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\obj\Debug\net6.0\homme 4.csproj.CoreCompileInputs.cache
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\obj\Debug\net6.0\homme 4.dll
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\obj\Debug\net6.0\refint\homme 4.dll
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\obj\Debug\net6.0\homme 4.pdb
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\obj\Debug\net6.0\homme 4.genruntimeconfig.cache
+C:\Users\Niky\Desktop\C#\Homework 1\home 3\home 4\homme 4\obj\Debug\net6.0\ref\homme 4.dll
